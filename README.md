@@ -1,6 +1,6 @@
-### Greetigns from Stockholm! :sweden:
+### Greetings from Sweden! :sweden:
 
-I'm Becki a Full Stack Developer & Team Lead :woman_technologist:
+I'm Becki a Full Stack Developer & Team Lead based in Stockholm :woman_technologist:
 
 
 ## Stats
