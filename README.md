@@ -12,7 +12,7 @@ Overall, I just love working with innovative technology alongside passionate peo
 
 - 🔭 I’m currently working with Javascript, React, React Native, and Node 
 - 🌱 I’m currently learning C++ and C#/Unity
-- 💬 Ask me about my slightly unconventional journey into tech
+- 💬 Ask me about my PhD thesis and I will bore you for hours with the geeky technical details
 - 📫 How to reach me: @BeckiWordsworth
 - ⚡ Fun fact: I love Formula 1
 
