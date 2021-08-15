@@ -1,7 +1,12 @@
 ### Greetings from Sweden! :sweden:
 
-I'm Becki a Full Stack Developer & Team Lead based in Stockholm :woman_technologist:
+I'm Becki a Full Stack Developer based in Stockholm :woman_technologist:
 
+- 🔭 I’m currently working with Javascript, React, React Native, and Node 
+- 🌱 I’m currently learning C++ and C#/Unity
+- 💬 Ask me about my slightly unconventional journey into tech
+- 📫 How to reach me: @BeckiWordsworth
+- ⚡ Fun fact: I love Formula 1
 
 ## Stats
 
