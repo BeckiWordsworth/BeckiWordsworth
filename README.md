@@ -1,5 +1,7 @@
 ### Hi I'm Becki 👋
 
+Full Stack Developer & Team Lead :woman_technologist:
+
 
 ## Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckiWordsworth&theme=tokyonight&layout=compact" />
