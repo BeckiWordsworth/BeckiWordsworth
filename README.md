@@ -8,10 +8,6 @@ I'm Becki a Full Stack Developer & Team Lead based in Stockholm :woman_technolog
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckiWordsworth&theme=tokyonight&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/?username=BeckiWordsworth" />
-</a>
-
 
 <!--
 **BeckiWordsworth/BeckiWordsworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
