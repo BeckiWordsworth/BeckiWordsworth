@@ -1,4 +1,4 @@
-### Greetigns from Stockholm! :flag-se:
+### Greetigns from Stockholm! :sweden:
 
 I'm Becki a Full Stack Developer & Team Lead :woman_technologist:
 
