@@ -1,6 +1,6 @@
-### Hi I'm Becki 👋
+### Greetigns from Stockholm! flag-se 
 
-Full Stack Developer & Team Lead :woman_technologist:
+I'm Becki a Full Stack Developer & Team Lead :woman_technologist:
 
 
 ## Stats
