@@ -2,7 +2,7 @@
 
 I'm Becki a Full Stack Developer based in Stockholm :woman_technologist:
 
-I have a PhD in Physics and a passion for working with technology, software, and cool new ideas.
+I have a PhD in Physics, a minor obsession with data, and a passion for working with technology, software, and cool new ideas.
 
 While working in research I was using statistical and scripting languages (Python, SPSS, Matlab) for analysis and that inspired me to delve deeper into programming and eventually I made the leap and moved from hobby programmer to full-time developer. 
 
