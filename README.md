@@ -10,7 +10,7 @@ In my spare time, I like to build small applications with JavaScript, Python and
 
 Overall, I just love working with innovative technology alongside passionate people and making a little bit of a difference in the world.
 
-- 🔭 I’m currently working with Javascript, React, React Native, and Node
+- 🔭 I’m currently working with Javascript, Typescript, React, React Native, and Node
 - 🌱 I’m currently learning C++ and C#/Unity
 - 💬 Ask me about my PhD thesis and I will bore you for hours with the geeky technical details 🔬
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beckiwordsworth/) or [Twitter](https://twitter.com/BeckiWordsworth)
