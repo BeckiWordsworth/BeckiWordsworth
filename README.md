@@ -1,6 +1,6 @@
 ### Greetings from Sweden! :sweden:
 
-I'm Becki a Full Stack Developer and Team Lead based in Stockholm :woman_technologist:
+I'm Becki a Full Stack Developer and Engineering Lead based in Stockholm :woman_technologist:
 
 I have a PhD in Physics, a minor obsession with data, and a passion for working with technology, software, and cool new ideas.
 
