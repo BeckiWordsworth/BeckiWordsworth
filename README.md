@@ -6,12 +6,12 @@ I have a PhD in Physics, a minor obsession with data, and a passion for working 
 
 While working in research I was using statistical and scripting languages (Python, SPSS, Matlab) for analysis and that inspired me to delve deeper into programming and eventually I made the leap and moved from hobby programmer to full-time developer. 
 
-In my spare time, I like to build small applications with JavaScript, Python and Swift and take time improving my knowledge and skills in the area of machine learning and AI. I also enjoy getting involved in the community, I am a co-organiser of sthlm.js meetup group and head of events and a teacher for Code Excursion, an organisation that runs events and workshops aimed at getting more women into coding.
+In my spare time, I like to build small applications with JavaScript/Typescript, Python and C# and take time improving my knowledge and skills in the area of machine learning and AI. I also enjoy getting involved in the community, I am a co-organiser of sthlm.js meetup group and head of events and a teacher for Code Excursion, an organisation that runs events and workshops aimed at getting more women into coding.
 
 Overall, I just love working with innovative technology alongside passionate people and making a little bit of a difference in the world.
 
 - 🔭 I’m currently working with Javascript, Typescript, React, React Native, and Node
-- 🌱 I’m currently learning C++ and C#/Unity
+- 🌱 I’m currently learning more about Kubernetes and Terraform
 - 💬 Ask me about my PhD thesis and I will bore you for hours with the geeky technical details 🔬
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beckiwordsworth/) or [Twitter](https://twitter.com/BeckiWordsworth)
 - ⚡ Fun fact: I love Formula 1 🏎️
