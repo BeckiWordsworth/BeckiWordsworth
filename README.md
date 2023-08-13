@@ -36,3 +36,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Examples of my blog posts
+
+[Distractions: the death of an efficient tech team](https://medium.com/@becki.wordsworth/distractions-the-death-of-an-efficient-tech-team-f3984e09b15f)
+
+[What to expect when making the leap from developer to tech lead](https://medium.com/@becki.wordsworth/what-to-expect-when-making-the-leap-from-developer-to-tech-lead-fdabd123c42a)
+
+[Making the most of office days for a hybrid team](https://medium.com/@becki.wordsworth/making-the-most-of-office-days-for-a-hybrid-team-6bc3b5f3ea41)
+
+[Breaking into your new career in tech - getting a job after a bootcamp or self learning](https://medium.com/@becki.wordsworth/breaking-in-to-your-new-career-in-tech-getting-a-job-after-a-bootcamp-or-after-learning-the-b46d1a75c605)
+
+[Your first tech job won't be perfect and why it deosn't have to be](https://medium.com/@becki.wordsworth/your-first-role-in-tech-wont-be-perfect-and-it-doesn-t-have-to-be-694d89fa6237)
+
