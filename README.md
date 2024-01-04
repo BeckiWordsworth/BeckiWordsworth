@@ -10,7 +10,7 @@ In my spare time, I like to build small applications with JavaScript/Typescript,
 
 Overall, I just love working with innovative technology alongside passionate people and making a little bit of a difference in the world.
 
-- 🔭 I’m currently working with Javascript, Typescript, React, React Native, and Node
+- 🔭 I’m currently working with Javascript, Typescript, React, Next.js, and Node
 - 🌱 I’m currently learning more about Kubernetes and Terraform
 - 💬 Ask me about my PhD thesis and I will bore you for hours with the geeky technical details 🔬
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beckiwordsworth/) or [Twitter](https://twitter.com/BeckiWordsworth)
