@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 # Examples of my blog posts
 
+[Navigating Technical Debt as an Engineering Leader](https://medium.com/@becki.wordsworth/navigating-technical-debt-as-a-engineering-leader-eaca48a84cc1)
+
 [Distractions: the death of an efficient tech team](https://medium.com/@becki.wordsworth/distractions-the-death-of-an-efficient-tech-team-f3984e09b15f)
 
 [What to expect when making the leap from developer to tech lead](https://medium.com/@becki.wordsworth/what-to-expect-when-making-the-leap-from-developer-to-tech-lead-fdabd123c42a)
